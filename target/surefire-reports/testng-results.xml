@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-04T11:40:26 IST" name="Suite" finished-at="2025-05-04T11:40:35 IST" duration-ms="9011">
+    <groups>
+    </groups>
+    <test started-at="2025-05-04T11:40:26 IST" name="Test" finished-at="2025-05-04T11:40:35 IST" duration-ms="9011">
+      <class name="api.TestCases.ApiTestCases">
+        <test-method is-config="true" signature="setUserData()[pri:0, instance:api.TestCases.ApiTestCases@5c7933ad]" started-at="2025-05-04T11:40:26 IST" name="setUserData" finished-at="2025-05-04T11:40:27 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUserData -->
+        <test-method signature="create()[pri:1, instance:api.TestCases.ApiTestCases@5c7933ad]" started-at="2025-05-04T11:40:27 IST" name="create" finished-at="2025-05-04T11:40:32 IST" duration-ms="5180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method signature="get()[pri:2, instance:api.TestCases.ApiTestCases@5c7933ad]" started-at="2025-05-04T11:40:32 IST" name="get" finished-at="2025-05-04T11:40:33 IST" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="update()[pri:3, instance:api.TestCases.ApiTestCases@5c7933ad]" started-at="2025-05-04T11:40:33 IST" name="update" finished-at="2025-05-04T11:40:34 IST" duration-ms="1596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method signature="delete()[pri:4, instance:api.TestCases.ApiTestCases@5c7933ad]" started-at="2025-05-04T11:40:34 IST" name="delete" finished-at="2025-05-04T11:40:35 IST" duration-ms="948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:api.TestCases.ApiTestCases@5c7933ad]" started-at="2025-05-04T11:40:35 IST" name="cleanUp" finished-at="2025-05-04T11:40:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- api.TestCases.ApiTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

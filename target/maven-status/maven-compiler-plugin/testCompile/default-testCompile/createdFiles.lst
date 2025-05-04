@@ -1,0 +1,7 @@
+api\Payload\UserPOJO.class
+api\Endpoints\ApiEndPoints.class
+api\Utilities\ExtentTestListener.class
+api\Utilities\ReadConfigFilesData.class
+api\TestCases\ApiTestCases.class
+api\Utilities\ExtentReportManager.class
+api\Utilities\ReadEachConfigFilesData.class
